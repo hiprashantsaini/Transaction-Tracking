@@ -5,7 +5,7 @@ A responsive and intuitive web application to track your personal finances, cate
 ## 🚀 Live Demo
 
 👉 [View Live App](https://transaction-tracking.netlify.app/)  
-🔗 [GitHub Repository](https://github.com/your-username/personal-finance-visualizer)
+🔗 [GitHub Repository](https://github.com/hiprashantsaini/Transaction-Tracking)
 
 ---
 
